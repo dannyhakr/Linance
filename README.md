@@ -19,6 +19,12 @@ Linance is a lightweight desktop application for managing customer loans, paymen
 ```
 
 ## Quick Start
+1. **Install node-gyp globally**
+
+```bash
+npm install --global node-gyp@latest
+```
+
 
 1. **Clone the repository**
 ```bash

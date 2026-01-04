@@ -24,7 +24,6 @@
     "@tanstack/react-query": "^5.90.16",
     "@types/puppeteer": "^5.4.7",
     "axios": "^1.13.2",
-    "bcrypt": "^6.0.0",
     "better-sqlite3": "^12.5.0",
     "date-fns": "^4.1.0",
     "electron-store": "^11.0.2",
@@ -63,7 +62,7 @@
   },
   "build": {
     "appId": "com.denis.finance",
-    "productName": "Nexus bank",
+    "productName": "Linance",
     "directories": {
       "buildResources": "build",
       "output": "release"
